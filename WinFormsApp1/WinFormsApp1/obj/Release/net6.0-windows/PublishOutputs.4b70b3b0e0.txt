@@ -1,0 +1,11 @@
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.exe
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.deps.json
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.runtimeconfig.json
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.pdb
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\System.Data.SqlClient.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\runtimes\win-arm64\native\sni.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\runtimes\win-x64\native\sni.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\runtimes\win-x86\native\sni.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

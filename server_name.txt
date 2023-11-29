@@ -1,0 +1,2 @@
+DESKTOP-VQ4N64F\SQLEXPRESS
+Data Source=DESKTOP-VQ4N64F\\SQLEXPRESS;Initial Catalog=HospitalManagementSystem;Integrated Security=True

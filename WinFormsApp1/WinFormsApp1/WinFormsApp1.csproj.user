@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\Spring[21-22]\OOP2 [LAB]\Project\WinFormsApp1\WinFormsApp1\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="A_dr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_nr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_off.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A_pat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorClinicalNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginOfficer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaintainVitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NurseProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Officer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OfficerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientClinicalNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientPageInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
